@@ -1,5 +1,5 @@
 # ESP8266
-ESP8266 based IoT applications 
+ESP8266 based MQTT applications 
 
 ## Prerequisites
 
