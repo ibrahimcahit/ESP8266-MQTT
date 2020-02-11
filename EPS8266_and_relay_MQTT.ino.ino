@@ -1,3 +1,7 @@
+// Open-Source ESP8266 code created by Ibrahim Cahit Ozdemir
+//
+// https://github.com/ibrahimcahit
+
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
 
