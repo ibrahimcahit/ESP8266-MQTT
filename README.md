@@ -27,3 +27,7 @@ With this code, you can control your relay modules, connected to ESP8266, via MQ
 4 relay modules used in this project
 
 * [ESP8266 and Relay module Code](https://github.com/ibrahimcahit/ESP8266/blob/master/ESP8266%20Arduino%20Codes/EPS8266_and_relay_MQTT.ino)
+
+Single relay module used in this project
+
+* [ESP8266 and Relay module Code](https://github.com/ibrahimcahit/ESP8266-MQTT/blob/master/ESP8266%20Arduino%20Codes/ESP8266_and_singleRelay_MQTT)
