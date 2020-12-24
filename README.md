@@ -21,6 +21,14 @@ Both DHT11 and DHT22 are compatible.
 * [ESP8266 and DHT Code](https://github.com/ibrahimcahit/ESP8266/blob/master/ESP8266%20Arduino%20Codes/EPS8266_and_DHT11_MQTT.ino)
 
 
+### ESP8266 and Relay module - Control relay module via MQTT
+With this code, you can control your relay module, connected to ESP8266, via MQTT.
+
+Single relay module used in this project
+
+* [ESP8266 and Relay module Code](https://github.com/ibrahimcahit/ESP8266-MQTT/blob/master/ESP8266%20Arduino%20Codes/ESP8266_and_singleRelay_MQTT)
+
+
 ### ESP8266 and Relay module - Control 4 relay modules via MQTT
 With this code, you can control your relay modules, connected to ESP8266, via MQTT.
 
@@ -28,6 +36,3 @@ With this code, you can control your relay modules, connected to ESP8266, via MQ
 
 * [ESP8266 and Relay module Code](https://github.com/ibrahimcahit/ESP8266/blob/master/ESP8266%20Arduino%20Codes/EPS8266_and_relay_MQTT.ino)
 
-Single relay module used in this project
-
-* [ESP8266 and Relay module Code](https://github.com/ibrahimcahit/ESP8266-MQTT/blob/master/ESP8266%20Arduino%20Codes/ESP8266_and_singleRelay_MQTT)
